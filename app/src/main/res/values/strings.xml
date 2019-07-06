@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission Dicoding</string>
+    <string name="name">Name</string>
+    <string name="remarks">Remarks</string>
+    <string name="share">Share</string>
+    <string name="detail">Detail</string>
+    <string name="isi_detail">Bunga merupakan modifikasi suatu tunas (batang dan daun) yang bentuk, warna, dan susunannya disesuaikan dengan kepentingan tumbuhan.
+        Oleh karena itu,bunga ini berfungsi sebagai tempat berlangsungnya penyerbukan dan pembuahan yang akhirnya dapat dihasilkan alat-alat perkembangbiakan.</string>
+    <string name="info">Divisio      : Magnoliophyta atau Angiospermae </string>
+</resources>
